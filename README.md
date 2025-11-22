@@ -62,6 +62,7 @@ Docker
 Pydantic
 
 🛠️ How to Run Locally
+
 1️⃣ Clone the repo
 git clone https://github.com/VictorZhan928/coverletter-ai.git
 cd coverletter-ai
@@ -95,6 +96,7 @@ Use the POST /generate-cover-letter endpoint:
 }
 
 🐳 Run with Docker
+
 1️⃣ Build the Docker image
 docker build -t coverletter-ai .
 
